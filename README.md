@@ -10,5 +10,5 @@ Neste projecto tem um conjunto de funções uteis para o preprocessamento do DTI
     * Coloca-los na pasta: estudoTBSS
     * vai ser usada a directoria <directorioestudo> usada acima
     ```bash
-  TBSSscript <directorioestudoTBSS> <directorioestudo> 
-  ```
+    TBSSscript <directorioestudoTBSS> <directorioestudo> 
+    ```
