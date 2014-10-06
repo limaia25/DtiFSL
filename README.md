@@ -1,6 +1,10 @@
 # Name and Description 
 **DTI with FSL tools** This project has util functions and scripts to preprocessing DTI data with FSL tools.
 
+  ## Translations
+  
+  [[Português| readme.pt.md]]
+
 # How to execute
 
 ## To execute the preprocessing
